@@ -6,33 +6,33 @@
 		autoplay = true,
 		playlist = [
 		{
-			title: '我想',
-artist: '张晓霞',
-album: '钟旭启',
+			title: 'I want',
+artist: 'Zhang Xiao xia',
+album: 'Zhong Xu Qi',
 cover:'music/1.jpg',
 mp3: 'music/IWant.mp3',
 ogg: ''
 },
 {
-title: '和你',
-artist: '张晓霞',
-album: '钟旭启',
+title: 'With You',
+artist: 'Zhang Xiao Xia',
+album: 'Zhong Xu Qi',
 cover:'music/2.jpg',
 mp3: 'music/withYou.mp3',
 ogg: ''
 },
 {
-title: '在一起',
-artist: '张晓霞',
-album: '钟旭启',
+title: 'together',
+artist: 'Zhang Xiao Xia',
+album: 'Zhong Xu Qi',
 cover:'music/3.jpg',
 mp3: 'music/together.mp3',
 ogg: ''
 },
 {
 title: 'all this for you!',
-artist: '张晓霞',
-album: '钟旭启',
+artist: 'Zhang Xiao Xia',
+album: 'Zhong Xu Qi',
 cover:'music/4.jpg',
 mp3: 'music/allThisForYou.mp3',
 ogg: ''
